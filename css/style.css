@@ -8,7 +8,7 @@
     padding-left: 20vw;
     padding-right: 20vw;
     text-align:center;
-    font-size:6vh;
+    font-size: 60px;
     font: "Noto Sans JP 400"
 }
 
@@ -28,7 +28,7 @@
     margin:0;
     padding:0;
     text-align:center;
-    font-size:14px;
+    font-size:18px;
 }
 .nav li{
     display:inline;
@@ -36,9 +36,9 @@
 }
 .nav a{
     display:inline-block;
-    padding-left:2vw;
-    padding-right:2vw;
-    padding-top: 4vh;
+    padding-left:1vw;
+    padding-right:1vw;
+    padding-top: 2vh;
 }
 
 /*Number Fonts and Links */
