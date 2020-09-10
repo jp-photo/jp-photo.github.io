@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Libre+Barcode+128+Text&display=swap');
+@import '/css/lightbox.css';
 
 .title{
     list-style:none;
@@ -9,7 +10,7 @@
     padding-right: 20vw;
     text-align:center;
     font-size: 60px;
-    font: "Noto Sans JP 400"
+    font-family: 'Noto Serif JP', serif;
 }
 
 .text{
@@ -26,7 +27,6 @@
 
 h1{
    font-size: 18px; 
-   font: 'Noto Sans JP 300';
    font-family: 'Noto Serif JP', serif;
    
 }
@@ -39,7 +39,7 @@ h1{
 }
 .nav li{
     display:inline;
-    font: 'Noto Sans JP';
+    font-family: 'Noto Serif JP', serif;
 }
 .nav a{
     display:inline-block;
@@ -93,3 +93,13 @@ a:active  {
   -ms-user-select: none;      /* IE 10+ */
   user-select: none;          /* Likely future */  
   }  
+
+footer{
+    text-align: center;
+    font-family: 'Libre Barcode 128 Text', cursive;
+    font-size: 50px;
+    padding: 100px;
+}
+
+
+
