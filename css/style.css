@@ -129,11 +129,11 @@ footer{
   background-position: center center;
   color: transparent;
   height:100%;
-  left: -100px;
+  left: -50px;
   opacity: 0;
   position: absolute;
   top: 0px;
-  width: 120%;
+  width: 110%;
   z-index: -99;
 }
 
